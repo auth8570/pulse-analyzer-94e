@@ -1,0 +1,12 @@
+{
+  "name": "pulse-analyzer-94e",
+  "version": "1.0.0",
+  "description": "CLI tool by @auth8570",
+  "bin": {
+    "pulse-analyzer-94e": "./bin/cli.js"
+  },
+  "type": "module",
+  "author": "auth8570",
+  "license": "MIT",
+  "dependencies": {}
+}
